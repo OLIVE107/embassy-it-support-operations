@@ -24,4 +24,11 @@ IT Support Technician based in Sukuta. Former Finance Assistant / Intern at Nige
 **Result:** Kept ledger accurate, prevented errors, protected sensitive data.
 
 ### PROJECT 2: Staff Protection Against Phishing & Fake Links
-**Problem:** Staff targeted by fake redirect links.
+**Problem:** Staff targeted by fake redirect links.**Business Value:**
+- Staff can verify links before entering passwords
+- Protects embassy email and visa system from compromise
+- Simple tool any non-technical staff can use
+
+**FocuS:** Protecting office Staff from fake redirect linkS.
+
+**Code Demo - Redirect Checker (Python)**
