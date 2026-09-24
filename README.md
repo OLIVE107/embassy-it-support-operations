@@ -1,4 +1,4 @@
-# embassy-it-support-operations
+# Embassy-It-Support-Operations
 IT SUPPORT TECHNICIAN 
 # OLIVE-107 | IT Support Technician - Embassy Operations
 📍 Sukuta, The Gambia | 📞 +2207203554 / +2202312654 | Available Immediately
